@@ -20,7 +20,6 @@ function checkPrime(num){
 let ans = checkPrime(13);
 
 if(ans == true){
-  console.log("prime");
-}else{
-  console.log("not prime");
-}
+   console.log("prime");
+  }else{
+     console.log("not prime");
